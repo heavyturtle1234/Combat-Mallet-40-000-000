@@ -664,7 +664,7 @@
                   <costs>
                     <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
                     <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
-                    <cost name="pts" typeId="points" value="5.0"/>
+                    <cost name="pts" typeId="points" value="10.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -749,7 +749,7 @@
         <infoLink id="bc21-7c54-2ad9-00fa" name="Punisher Gatling Cannon" hidden="false" targetId="9fac-07c9-3595-784e" type="profile"/>
       </infoLinks>
       <costs>
-        <cost name="pts" typeId="points" value="20.0"/>
+        <cost name="pts" typeId="points" value="10.0"/>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
         <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
       </costs>
@@ -771,7 +771,7 @@
         </profile>
       </profiles>
       <costs>
-        <cost name="pts" typeId="points" value="15.0"/>
+        <cost name="pts" typeId="points" value="0.0"/>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
         <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
       </costs>
@@ -805,7 +805,7 @@
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
         <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
-        <cost name="pts" typeId="points" value="0.0"/>
+        <cost name="pts" typeId="points" value="10.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="f342-97f0-feb4-882c" name="Turret-mounted Eradicator Nova Cannon" page="0" hidden="false" collective="false" import="true" type="upgrade">
@@ -838,7 +838,7 @@
         <infoLink id="ee26-3f02-97af-d28d" name="Demolisher cannon" hidden="false" targetId="d2d1-43d6-8c52-7a6a" type="profile"/>
       </infoLinks>
       <costs>
-        <cost name="pts" typeId="points" value="5.0"/>
+        <cost name="pts" typeId="points" value="10.0"/>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
         <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
       </costs>
@@ -855,7 +855,7 @@
             <characteristic name="W" typeId="f330-5e6e-4110-0978">12</characteristic>
             <characteristic name="A" typeId="13fc-b29b-31f2-ab9f">*</characteristic>
             <characteristic name="Ld" typeId="00ca-f8b8-876d-b705">7</characteristic>
-            <characteristic name="Save" typeId="c0df-df94-abd7-e8d3">3+</characteristic>
+            <characteristic name="Save" typeId="c0df-df94-abd7-e8d3">2+</characteristic>
           </characteristics>
         </profile>
         <profile id="3dcd-c0a7-1b26-1e60" name="Tank Orders" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
@@ -908,7 +908,7 @@
       </entryLinks>
       <costs>
         <cost name=" PL" typeId="e356-c769-5920-6e14" value="12.0"/>
-        <cost name="pts" typeId="points" value="175.0"/>
+        <cost name="pts" typeId="points" value="185.0"/>
         <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
       </costs>
     </selectionEntry>
@@ -924,7 +924,7 @@
             <characteristic name="W" typeId="f330-5e6e-4110-0978">26</characteristic>
             <characteristic name="A" typeId="13fc-b29b-31f2-ab9f">*</characteristic>
             <characteristic name="Ld" typeId="00ca-f8b8-876d-b705">8</characteristic>
-            <characteristic name="Save" typeId="c0df-df94-abd7-e8d3">3+</characteristic>
+            <characteristic name="Save" typeId="c0df-df94-abd7-e8d3">2+</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -1034,7 +1034,7 @@
             <characteristic name="W" typeId="f330-5e6e-4110-0978">26</characteristic>
             <characteristic name="A" typeId="13fc-b29b-31f2-ab9f">*</characteristic>
             <characteristic name="Ld" typeId="00ca-f8b8-876d-b705">8</characteristic>
-            <characteristic name="Save" typeId="c0df-df94-abd7-e8d3">3+</characteristic>
+            <characteristic name="Save" typeId="c0df-df94-abd7-e8d3">2+</characteristic>
           </characteristics>
         </profile>
         <profile id="6ce5-c19a-bf1b-ff3e" name="Shadowsword Targeters" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
@@ -1548,7 +1548,7 @@
             <characteristic name="W" typeId="f330-5e6e-4110-0978">26</characteristic>
             <characteristic name="A" typeId="13fc-b29b-31f2-ab9f">*</characteristic>
             <characteristic name="Ld" typeId="00ca-f8b8-876d-b705">8</characteristic>
-            <characteristic name="Save" typeId="c0df-df94-abd7-e8d3">3+</characteristic>
+            <characteristic name="Save" typeId="c0df-df94-abd7-e8d3">2+</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -2142,7 +2142,7 @@
                   <costs>
                     <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
                     <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
-                    <cost name="pts" typeId="points" value="10.0"/>
+                    <cost name="pts" typeId="points" value="20.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -2451,7 +2451,7 @@
             <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ed80-e07a-cd83-cdb8" type="min"/>
           </constraints>
           <costs>
-            <cost name="pts" typeId="points" value="15.0"/>
+            <cost name="pts" typeId="points" value="10.0"/>
           </costs>
         </entryLink>
       </entryLinks>
@@ -2618,7 +2618,7 @@
           <characteristics>
             <characteristic name="Remaining W" typeId="233c-fa78-4641-68d9">7-12+</characteristic>
             <characteristic name="Movement" typeId="fc73-9b3f-5e4b-86b9">10&quot;</characteristic>
-            <characteristic name="BS" typeId="8010-b879-355a-c137">3+</characteristic>
+            <characteristic name="BS" typeId="8010-b879-355a-c137">4+</characteristic>
             <characteristic name="Attacks" typeId="2e64-2e5c-f4d1-52d3">3</characteristic>
           </characteristics>
         </profile>
@@ -2626,7 +2626,7 @@
           <characteristics>
             <characteristic name="Remaining W" typeId="233c-fa78-4641-68d9">4-6</characteristic>
             <characteristic name="Movement" typeId="fc73-9b3f-5e4b-86b9">7&quot;</characteristic>
-            <characteristic name="BS" typeId="8010-b879-355a-c137">4+</characteristic>
+            <characteristic name="BS" typeId="8010-b879-355a-c137">5+</characteristic>
             <characteristic name="Attacks" typeId="2e64-2e5c-f4d1-52d3">D3</characteristic>
           </characteristics>
         </profile>
@@ -2634,7 +2634,7 @@
           <characteristics>
             <characteristic name="Remaining W" typeId="233c-fa78-4641-68d9">1-3</characteristic>
             <characteristic name="Movement" typeId="fc73-9b3f-5e4b-86b9">4&quot;</characteristic>
-            <characteristic name="BS" typeId="8010-b879-355a-c137">5+</characteristic>
+            <characteristic name="BS" typeId="8010-b879-355a-c137">6+</characteristic>
             <characteristic name="Attacks" typeId="2e64-2e5c-f4d1-52d3">1</characteristic>
           </characteristics>
         </profile>
@@ -3430,7 +3430,7 @@
             <characteristic name="W" typeId="f330-5e6e-4110-0978">26</characteristic>
             <characteristic name="A" typeId="13fc-b29b-31f2-ab9f">6</characteristic>
             <characteristic name="Ld" typeId="00ca-f8b8-876d-b705">8</characteristic>
-            <characteristic name="Save" typeId="c0df-df94-abd7-e8d3">3+</characteristic>
+            <characteristic name="Save" typeId="c0df-df94-abd7-e8d3">2+</characteristic>
           </characteristics>
         </profile>
         <profile id="4dfd-c648-2880-ebb7" name="Stormblade [2] (7-13 wounds remaining)" publicationId="7573-8d1b-acdf-2de8" page="76" hidden="false" typeId="800f-21d0-4387-c943" typeName="Unit">
@@ -3443,7 +3443,7 @@
             <characteristic name="W" typeId="f330-5e6e-4110-0978">N/A</characteristic>
             <characteristic name="A" typeId="13fc-b29b-31f2-ab9f">D6</characteristic>
             <characteristic name="Ld" typeId="00ca-f8b8-876d-b705">8</characteristic>
-            <characteristic name="Save" typeId="c0df-df94-abd7-e8d3">3+</characteristic>
+            <characteristic name="Save" typeId="c0df-df94-abd7-e8d3">2+</characteristic>
           </characteristics>
         </profile>
         <profile id="d3ff-9379-943d-43bb" name="Stormblade [3] (1-6 wounds remaining)" publicationId="7573-8d1b-acdf-2de8" page="76" hidden="false" typeId="800f-21d0-4387-c943" typeName="Unit">
@@ -3456,7 +3456,7 @@
             <characteristic name="W" typeId="f330-5e6e-4110-0978">N/A</characteristic>
             <characteristic name="A" typeId="13fc-b29b-31f2-ab9f">D3</characteristic>
             <characteristic name="Ld" typeId="00ca-f8b8-876d-b705">8</characteristic>
-            <characteristic name="Save" typeId="c0df-df94-abd7-e8d3">3+</characteristic>
+            <characteristic name="Save" typeId="c0df-df94-abd7-e8d3">2+</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -7615,7 +7615,7 @@
           <entryLinks>
             <entryLink id="872d-c735-14f5-bb0c" name="Multi-laser" hidden="false" collective="false" import="true" targetId="8321-0831-717d-96d9" type="selectionEntry">
               <modifiers>
-                <modifier type="set" field="points" value="5.0"/>
+                <modifier type="set" field="points" value="10.0"/>
               </modifiers>
               <constraints>
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5d0b-3e42-31e4-3c62" type="max"/>
@@ -7779,7 +7779,7 @@
             <entryLink id="0cc9-6aaa-03d6-dad9" name="Multi-laser" hidden="false" collective="false" import="true" targetId="8321-0831-717d-96d9" type="selectionEntry">
               <modifiers>
                 <modifier type="set" field="16b5-1518-3415-9176" value="7.0"/>
-                <modifier type="set" field="points" value="5.0"/>
+                <modifier type="set" field="points" value="10.0"/>
               </modifiers>
             </entryLink>
             <entryLink id="ae0c-beb7-b3f9-d88b" name="Heavy Flamer" hidden="false" collective="false" import="true" targetId="31a0-886c-d78c-e6dc" type="selectionEntry">
@@ -8212,7 +8212,7 @@
             <characteristic name="W" typeId="f330-5e6e-4110-0978">26</characteristic>
             <characteristic name="A" typeId="13fc-b29b-31f2-ab9f">*</characteristic>
             <characteristic name="Ld" typeId="00ca-f8b8-876d-b705">8</characteristic>
-            <characteristic name="Save" typeId="c0df-df94-abd7-e8d3">3+</characteristic>
+            <characteristic name="Save" typeId="c0df-df94-abd7-e8d3">2+</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -8306,7 +8306,7 @@
             <characteristic name="W" typeId="f330-5e6e-4110-0978">26</characteristic>
             <characteristic name="A" typeId="13fc-b29b-31f2-ab9f">*</characteristic>
             <characteristic name="Ld" typeId="00ca-f8b8-876d-b705">8</characteristic>
-            <characteristic name="Save" typeId="c0df-df94-abd7-e8d3">3+</characteristic>
+            <characteristic name="Save" typeId="c0df-df94-abd7-e8d3">2+</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -9801,10 +9801,6 @@
               <characteristics>
                 <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">“at the end of your turn for 1cp, when the unit is fully removed from play, place the unit back in strategic reserves. The unit must enter the board from your starting board edge, entirely within 6&quot; of the table edge and within your deployment zone.</characteristic>
               </characteristics>
-              <constraints>
-                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b24c-627d-68b0-f8f1" type="max"/>
-                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4675-37a2-f2f9-6ac5" type="min"/>
-              </constraints>
             </entryLink>
           </entryLinks>
           <costs>
@@ -11286,7 +11282,7 @@
                         </profile>
                       </profiles>
                       <costs>
-                        <cost name="pts" typeId="points" value="20.0"/>
+                        <cost name="pts" typeId="points" value="10.0"/>
                         <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
                         <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
                       </costs>
@@ -11321,7 +11317,7 @@
                 <entryLink id="1526-b899-be3f-3b14" name="Tank Aces" hidden="false" collective="false" import="true" targetId="998b-b53a-603f-6c5b" type="selectionEntryGroup"/>
               </entryLinks>
               <costs>
-                <cost name="pts" typeId="points" value="140.0"/>
+                <cost name="pts" typeId="points" value="165.0"/>
                 <cost name=" PL" typeId="e356-c769-5920-6e14" value="10.0"/>
                 <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
               </costs>
@@ -11357,7 +11353,7 @@
                 <entryLink id="bf09-6043-9e6a-934a" name="Tank Aces" hidden="false" collective="false" import="true" targetId="998b-b53a-603f-6c5b" type="selectionEntryGroup"/>
               </entryLinks>
               <costs>
-                <cost name="pts" typeId="points" value="170.0"/>
+                <cost name="pts" typeId="points" value="165.0"/>
                 <cost name=" PL" typeId="e356-c769-5920-6e14" value="10.0"/>
                 <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
               </costs>
@@ -11429,7 +11425,7 @@
                 <entryLink id="dcd4-3cc8-e77c-c2b6" name="Tank Aces" hidden="false" collective="false" import="true" targetId="998b-b53a-603f-6c5b" type="selectionEntryGroup"/>
               </entryLinks>
               <costs>
-                <cost name="pts" typeId="points" value="175.0"/>
+                <cost name="pts" typeId="points" value="165.0"/>
                 <cost name=" PL" typeId="e356-c769-5920-6e14" value="10.0"/>
                 <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
               </costs>
@@ -11465,7 +11461,7 @@
                 <entryLink id="34d6-26e2-3096-0347" name="Tank Aces" hidden="false" collective="false" import="true" targetId="998b-b53a-603f-6c5b" type="selectionEntryGroup"/>
               </entryLinks>
               <costs>
-                <cost name="pts" typeId="points" value="175.0"/>
+                <cost name="pts" typeId="points" value="165.0"/>
                 <cost name=" PL" typeId="e356-c769-5920-6e14" value="10.0"/>
                 <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
               </costs>
@@ -11501,7 +11497,7 @@
                 <entryLink id="884e-5118-8a4e-3672" name="Tank Aces" hidden="false" collective="false" import="true" targetId="998b-b53a-603f-6c5b" type="selectionEntryGroup"/>
               </entryLinks>
               <costs>
-                <cost name="pts" typeId="points" value="175.0"/>
+                <cost name="pts" typeId="points" value="165.0"/>
                 <cost name=" PL" typeId="e356-c769-5920-6e14" value="10.0"/>
                 <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
               </costs>
@@ -11537,7 +11533,7 @@
                 <entryLink id="c6e8-0a3f-5463-96f8" name="Tank Aces" hidden="false" collective="false" import="true" targetId="998b-b53a-603f-6c5b" type="selectionEntryGroup"/>
               </entryLinks>
               <costs>
-                <cost name="pts" typeId="points" value="175.0"/>
+                <cost name="pts" typeId="points" value="165.0"/>
                 <cost name=" PL" typeId="e356-c769-5920-6e14" value="10.0"/>
                 <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
               </costs>
@@ -14374,7 +14370,7 @@
             <characteristic name="W" typeId="f330-5e6e-4110-0978">26</characteristic>
             <characteristic name="A" typeId="13fc-b29b-31f2-ab9f">*</characteristic>
             <characteristic name="Ld" typeId="00ca-f8b8-876d-b705">8</characteristic>
-            <characteristic name="Save" typeId="c0df-df94-abd7-e8d3">3+</characteristic>
+            <characteristic name="Save" typeId="c0df-df94-abd7-e8d3">2+</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -15106,7 +15102,7 @@
                 <infoLink id="0ba9-4e67-8d91-f5a5" name="Veteran" hidden="false" targetId="d4f6537c-b82c-db68-b6d6-03eefe4de298" type="profile"/>
               </infoLinks>
               <selectionEntryGroups>
-                <selectionEntryGroup id="6662-523b-52ab-5859" name="Lasgun" hidden="false" collective="false" import="true">
+                <selectionEntryGroup id="6632-523b-52ab-5859" name="Lasgun" hidden="false" collective="false" import="true">
                   <constraints>
                     <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="32dc-0eb1-ebef-1b7b" type="max"/>
                     <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="78b9-4963-7f03-26b8" type="min"/>
@@ -15140,40 +15136,6 @@
               </costs>
             </selectionEntry>
             <selectionEntry id="7a60-d046-2728-755a" name="Carapace Armor" page="0" hidden="false" collective="false" import="true" type="upgrade">
-              <constraints>
-                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="5dcf-d376-37a2-a647" type="max"/>
-              </constraints>
-              <infoLinks>
-                <infoLink id="0ba9-4e67-8d91-f5a5" name="Veteran" hidden="false" targetId="d4f6537c-b82c-db68-b6d6-03eefe4de298" type="profile"/>
-              </infoLinks>
-              <selectionEntryGroups>
-                <selectionEntryGroup id="6662-523b-52ab-5859" name="Lasgun" hidden="false" collective="false" import="true">
-                  <constraints>
-                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="32dc-0eb1-ebef-1b7b" type="max"/>
-                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="78b9-4963-7f03-26b8" type="min"/>
-                  </constraints>
-                  <entryLinks>
-                    <entryLink id="0a48-8fe5-1496-5b0a" name="Lasgun" hidden="false" collective="false" import="true" targetId="fd87-854b-d284-184a" type="selectionEntry">
-                      <constraints>
-                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c0bf-e289-abdf-6626" type="max"/>
-                      </constraints>
-                    </entryLink>
-                    <entryLink id="8c42-fe41-31e9-4c7f" name="Shotgun" hidden="false" collective="false" import="true" targetId="2094-c9a6-a426-0970" type="selectionEntry">
-                      <constraints>
-                        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="cf7c-5359-6612-221f" type="max"/>
-                      </constraints>
-                    </entryLink>
-                  </entryLinks>
-                </selectionEntryGroup>
-              </selectionEntryGroups>
-              <entryLinks>
-                <entryLink id="d2f5-b625-0489-4967" name="Vox-caster" hidden="false" collective="false" import="true" targetId="9ce2-5815-93dd-2918" type="selectionEntry">
-                  <constraints>
-                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c6aa-db92-9b97-e4c3" type="max"/>
-                    <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8732-3ec4-c1aa-794f" type="min"/>
-                  </constraints>
-                </entryLink>
-              </entryLinks>
               <costs>
                 <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
                 <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
@@ -16944,7 +16906,7 @@
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="88a9-f450-d821-145c" type="max"/>
           </constraints>
           <costs>
-            <cost name="pts" typeId="points" value="15.0"/>
+            <cost name="pts" typeId="points" value="20.0"/>
           </costs>
         </entryLink>
         <entryLink id="bec4-f1b7-24f7-4c26" name="Missile launcher" hidden="false" collective="false" import="true" targetId="1469-1964-7a91-94d4" type="selectionEntry">
@@ -17190,7 +17152,7 @@
           <costs>
             <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
             <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
-            <cost name="pts" typeId="points" value="5.0"/>
+            <cost name="pts" typeId="points" value="10.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="f897-2c83-06eb-cd00" name="Heavy Flamer" page="0" hidden="false" collective="false" import="true" type="upgrade">
@@ -17366,7 +17328,7 @@
             </entryLink>
           </entryLinks>
           <costs>
-            <cost name="pts" typeId="points" value="30.0"/>
+            <cost name="pts" typeId="points" value="20.0"/>
             <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
             <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
           </costs>
@@ -17389,7 +17351,7 @@
           <costs>
             <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
             <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
-            <cost name="pts" typeId="points" value="5.0"/>
+            <cost name="pts" typeId="points" value="10.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="31a0-886c-d78c-e6dc" name="Heavy Flamer" page="0" hidden="false" collective="false" import="true" type="upgrade">
@@ -17400,7 +17362,7 @@
             <infoLink id="fd9b-9b38-86f7-0876" name="Heavy flamer" hidden="false" targetId="2608-8425-4f4f-7f41" type="profile"/>
           </infoLinks>
           <costs>
-            <cost name="pts" typeId="points" value="10.0"/>
+            <cost name="pts" typeId="points" value="15.0"/>
             <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
             <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
           </costs>
@@ -17494,7 +17456,7 @@
             <infoLink id="1522-fe4c-e8b8-8a6e" name="Heavy bolter" hidden="false" targetId="e2b0-b9f1-6c38-584c" type="profile"/>
           </infoLinks>
           <costs>
-            <cost name="pts" typeId="points" value="15.0"/>
+            <cost name="pts" typeId="points" value="10.0"/>
             <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
             <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
           </costs>
@@ -18322,7 +18284,7 @@
             <infoLink id="6475-7bf7-75f3-3d0a" name="Battle Cannon" hidden="false" targetId="bc34-f1ec-56fa-2829" type="profile"/>
           </infoLinks>
           <costs>
-            <cost name="pts" typeId="points" value="5.0"/>
+            <cost name="pts" typeId="points" value="0.0"/>
             <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
             <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
           </costs>
